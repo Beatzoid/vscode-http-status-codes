@@ -10,6 +10,4 @@ Show a description of http status codes on hover, and use a command to search fo
 
 ## Release Notes
 
-### 1.0.0
-
-Initial release
+See [CHANGELOG.md](CHANGELOG.md)
