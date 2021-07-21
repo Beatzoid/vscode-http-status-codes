@@ -8,9 +8,11 @@ export function activate(context: vscode.ExtensionContext) {
 
     context.subscriptions.push(
         vscode.languages.registerHoverProvider("*", {
-            provideHover(document) {
-                // @ts-ignore
-                const number = document.getText().match(/\d+/)[0];
+            provideHover(document, position) {
+                const number = document.getText(
+                    document.getWordRangeAtPosition(position, /\d+/)
+                );
+
                 if (number) {
                     const statusCode = Object.keys(statusCodes).find(
                         (key) => key === number
