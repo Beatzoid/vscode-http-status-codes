@@ -14,7 +14,7 @@
     ],
     "activationEvents": [
         "onStartupFinished",
-        "onCommand:http-status-codes.helloWorld"
+        "onCommand:http-status-codes.search"
     ],
     "main": "./dist/extension.js",
     "contributes": {
