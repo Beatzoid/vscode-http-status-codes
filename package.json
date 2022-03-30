@@ -6,7 +6,7 @@
     "icon": "images/logo.png",
     "version": "1.0.2",
     "engines": {
-        "vscode": "^1.65.2"
+        "vscode": "^1.66.0"
     },
     "repository": "https://github.com/Beatzoid/vscode-http-status-codes",
     "categories": [
