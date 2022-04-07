@@ -4,7 +4,7 @@
     "description": "Show the definition for all http status codes when you hover over them",
     "publisher": "beatzoid",
     "icon": "images/logo.png",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.66.1"
     },
