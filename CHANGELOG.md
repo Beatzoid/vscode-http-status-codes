@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.4] 7-8-2022
+
+- Update dependencies
+- Add LICENSE
+
 ## [1.0.3] 4-7-2022
 
 -   Fix package.json typo [#36](https://github.com/Beatzoid/vscode-http-status-codes/pull/36)
