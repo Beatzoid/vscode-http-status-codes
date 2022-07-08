@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.5] 7-8-2022
+
+- Update dependencies
+
 ## [1.0.4] 7-8-2022
 
 - Update dependencies
