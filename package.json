@@ -6,7 +6,7 @@
     "icon": "images/logo.png",
     "version": "1.0.5",
     "engines": {
-        "vscode": "^1.78.2"
+        "vscode": "^1.79.0"
     },
     "repository": "https://github.com/Beatzoid/vscode-http-status-codes",
     "categories": [
@@ -43,7 +43,7 @@
         "@types/glob": "^8.1.0",
         "@types/mocha": "^10.0.1",
         "@types/node": "18.x",
-        "@types/vscode": "^1.78.1",
+        "@types/vscode": "^1.79.0",
         "@typescript-eslint/eslint-plugin": "^5.59.9",
         "@typescript-eslint/parser": "^5.59.9",
         "eslint": "^8.42.0",
