@@ -252,6 +252,12 @@ const statusCodes: Record<number, { title: string; content: string }> = {
         content:
             "The server is unwilling to process the request because either an individual header field, or all the header fields collectively, are too large"
     },
+    451: {
+        title: "451 Unavailable For Legal Reasons",
+        content:
+            "The server is denying access to the resource as a consequence of a legal demand (for example, a governmental censorship or court order)."
+    },
+
 
     // 5xx Server Errors
 
