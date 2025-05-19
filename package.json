@@ -6,15 +6,14 @@
     "icon": "images/logo.png",
     "version": "1.0.5",
     "engines": {
-        "vscode": "^2023.8.100"
+        "vscode": "^1.85.0"
     },
     "repository": "https://github.com/Beatzoid/vscode-http-status-codes",
     "categories": [
         "Other"
     ],
     "activationEvents": [
-        "onStartupFinished",
-        "onCommand:http-status-codes.search"
+        "onStartupFinished"
     ],
     "main": "./dist/extension.js",
     "contributes": {
