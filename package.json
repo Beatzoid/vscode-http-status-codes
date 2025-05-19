@@ -45,7 +45,7 @@
         "@types/vscode": "^1.88.0",
         "@typescript-eslint/eslint-plugin": "^8.32.1",
         "@typescript-eslint/parser": "^8.32.1",
-        "eslint": "^9.1.1",
+        "eslint": "^9.27.0",
         "glob": "^11.0.2",
         "mocha": "^11.3.0",
         "ts-loader": "^9.5.1",
