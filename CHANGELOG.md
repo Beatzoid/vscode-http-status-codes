@@ -3,7 +3,7 @@
 ## [1.1.0] - 5-18-2025
 
 - Update dependencies
-- Add 451 status code (Thanks @Nolanrulesroblox in [#428](https://github.com/Beatzoid/vscode-http-status-codes/pull/428))
+- Add 451 status code (Thanks [@Nolanrulesroblox](https://github.com/Nolanrulesroblox) in [#428](https://github.com/Beatzoid/vscode-http-status-codes/pull/428))
 - Update VSCode version in package.json
 
 ## [1.0.5] 7-8-2022
