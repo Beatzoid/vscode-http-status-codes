@@ -1,9 +1,17 @@
 {
-	"extends": ["config:base"],
+	"extends": [
+		"config:recommended"
+	],
 	"rangeStrategy": "bump",
 	"packageRules": [
 		{
-			"matchUpdateTypes": ["minor", "patch", "pin", "digest", "major"]
+			"matchUpdateTypes": [
+				"minor",
+				"patch",
+				"pin",
+				"digest",
+				"major"
+			]
 		}
 	],
 	"commitMessagePrefix": "⬆️",
