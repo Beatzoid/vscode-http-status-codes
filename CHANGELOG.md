@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.1] - 9-19-2025
+- Update dependencies
+- Downgrade minimum VSCode version to 1.99.3 to support Cursor
+
 ## [1.1.0] - 5-18-2025
 
 - Update dependencies
